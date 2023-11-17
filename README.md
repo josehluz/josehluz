@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Meu nome é José Luz</h1>
 
 - 🔭 Sou um antigo técnico em informática e um futuro desenvolvedor!
-- 👨‍👩‍👦‍👦 Tenho 43 anos, sou casado e tenho 2 filhos.
+- 👨‍👩‍👦‍👦 Tenho 44 anos, sou casado e tenho 2 filhos.
 - 💻 Estou cursando ADS...
 - Sou aluno gafanhoto do Prof. Guanabara e da Rocketseat
 - ✔ Meu lema é "Never Stop Learning"
